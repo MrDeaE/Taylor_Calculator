@@ -1,1 +1,1 @@
-Taylot series calculator made in Flutter
+Taylor series calculator made in Flutter
